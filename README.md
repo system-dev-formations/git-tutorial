@@ -27,7 +27,7 @@
    git status
    git log -1
    git add file1.c
-   
+   git commit -am "Nouveau fichier"
 
 
 
