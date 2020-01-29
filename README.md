@@ -71,6 +71,8 @@
     git tag -d v1.1  # en local
     git push orgin :refs/tags/v1.1  # remote
     git branch
+    git branch  -v
+    git check-ref-format --branch 2.x/fix/ticket/3245
    
     
 
